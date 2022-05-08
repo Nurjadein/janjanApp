@@ -16,6 +16,7 @@
     "core-js": "^3.6.5",
     "quasar": "^2.0.0",
     "vue": "^3.0.0",
+    "vue-class-component": "^7.2.6",
     "vue-class-decorator": "^7.6.3",
     "vue-router": "^4.0.0",
     "vuex": "^4.0.1"
